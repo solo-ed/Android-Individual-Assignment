@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720585270324",
+    "firebase_url": "https://auth-c4f40.firebaseio.com",
+    "project_id": "auth-c4f40",
+    "storage_bucket": "auth-c4f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720585270324:android:24e15153f49e5f89a09661",
+        "android_client_info": {
+          "package_name": "com.solo.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720585270324-gtoak6ceiktn28h5tj576m1n9nh5nioi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solo.auth",
+            "certificate_hash": "67714a70e2275b9c530bba34078c166cc30f5256"
+          }
+        },
+        {
+          "client_id": "720585270324-ofmrnrgkf3snv5j728vts3l1e6bjrped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmdZoOL-O86SeCi5mdRAyENaCdSAAIuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720585270324-ofmrnrgkf3snv5j728vts3l1e6bjrped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
